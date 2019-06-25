@@ -1,0 +1,380 @@
+{
+  "app": {
+    "name": "i18next"
+  },
+  "nav": {
+    "_nav": "TRANSLATION FOR NAV & FOOTER",
+    "home": "home",
+    "product": "product",
+    "about": "about",
+    "vacancies": "vacancies",
+    "contact": "contact"
+  },
+
+  "_home": "TRANSLATION FOR HOMEPAGE",
+  "homeBanner": {
+    "heading": "Happy employees make great businesses",
+    "under":
+      "Healthy Workers makes employee well-being measurable. We help companies create the best possible working environment for happy employees and successful organizations.",
+    "button": "WHAT CAN WE DO FOR YOU?",
+    "readMore": "Read more"
+  },
+  "engaged": {
+    "tagline":
+      "In the Netherlands, <span>91% of employees are not ‘engaged’</span> and <span>one million</span> people suffer from symptoms of burn-out.",
+    "under":
+      "Chronic stress, low productivity, job dissatisfaction and reduced engagement are factors that cost businesses billions of euros. Healthy Workers tackles these problems through targeted interventions in the workplace."
+  },
+  "steps": {
+    "title": "We create a healthy office",
+    "firstTitle": "01 Measure",
+    "firstUnder":
+      "Using the latest technologies and scientifically validated Human Resources studies, Healthy Workers measures the well-being of your employees.",
+    "secondTitle": "02 Analyse",
+    "secondUnder":
+      "Our extensive analyses present clear insights into the current status and developments of workplace well-being and workplace environment.",
+    "thirdTitle": "03 Improve",
+    "thirdUnder":
+      "We propose targeted improvements which are easy to implement in your company. Our workplace interventions are effective and supported by scientific evidence."
+  },
+  "forwho": {
+    "title": "Healthy Workers is for",
+    "firstTitle": "HR departments",
+    "firstText":
+      "<span>Work-related stress is the number one professional illness.</span> By constantly measuring well-being and using our feedback-intervention loop, we raise the level of contentment among employees.",
+    "secondTitle": "Facility",
+    "secondText":
+      "<span>In need of insight into the results of interventions?</span> Our analyses reveal the effectiveness of investments and relate this to employee well-being.",
+    "thirdTitle": "IT manager",
+    "thirdText":
+      "<span>Smart building packed with sensors but the data remains unused?</span> We offer tools for transforming data into relevant information and make the connection between buildings and employees."
+  },
+  "customers": {
+    "title": "We have worked with"
+  },
+  "calltoaction": {
+    "title": "But first and foremost, Healthy Workers serves",
+    "text": "<span>Employees.</span> Their well-being<br>is our main priority.",
+    "button": "Get in touch"
+  },
+  "newsletter": {
+    "title": "SIGN UP FOR OUR NEWSLETTER",
+    "buttonText": "Subscribe"
+  },
+
+  "_product": "TRANSLATION FOR PRODUCT PAGE",
+
+  "productBanner": {
+    "pageTitle": "Product",
+    "heading": "We make data work for you",
+    "under":
+      "What is the current status of employee well-being and the indoor environment? We compile the necessary data for you, present insights into the situation in your company and propose targeted improvements.",
+    "imageFull": "img/circularsteps-eng.svg",
+    "imageMobile": "img/circularsteps-mobile-eng.svg"
+  },
+  "measure": {
+    "title": "01 Measure",
+    "firstText":
+      "Healthy Workers compiles both hard and soft data about employee well-being and the indoor environment. Using scientifically validated measurement techniques we set out and present the situation at your company.",
+    "greenTitleFirst": "wellbeing-scan",
+    "firtUnder":
+      "We use brief questionnaires to enter into a dialogue with employees. This enables us to gather important information about topics such as engagement, physical and psychological work stressors, social support and health.",
+    "greenTitleSecond": "Sensors",
+    "secondUnder":
+      "Using sensors and the latest technologies Healthy Workers maps the current indoor environment. We measure things like humidity, CO2, temperature and TVOC particles (pollutants) in the air."
+  },
+  "analyse": {
+    "title": "02 Analyse",
+    "firstText":
+      "The data from our measurements present you with valuable insights into productivity, stress, engagement, well-being and stressors in the workplace. Both employer and employee receive updates through their own platforms concerning results, developments and improvements.",
+    "greenTitleFirst": "Employer dashboard",
+    "firtUnder":
+      "The employer dashboard displays the environmental measurements together with anonymised results of the well-being scan.",
+    "greenTitleSecond": "Employee companion",
+    "secondUnder":
+      "The employee companion is our employee communication platform. This is where questionnaires are shared, but also results, progress reports, relevant tips and fun stories."
+  },
+  "improve": {
+    "title": "03 Improve",
+    "under":
+      "Together with a team of internal and external scientists, Healthy Workers researches how companies can improve the well-being of their employees. This allows us to propose scientifically validated improvements that are both effective and measurable. We match the needs of employers and employees with interventions appropriate for them. This way we are able to work with businesses to realize the perfect working environment in which all employees can deploy their full potential."
+  },
+  "intervention": {
+    "preTitle": "Our interventions in the indoor environment"
+  },
+  "interventionOne": {
+    "firstTitle": "Greenery and light for more productivity",
+    "firstText":
+      "Environmental factors can have an influence on the productivity, stress levels, and energy levels of employees. This means air quality, light, sound, and temperature can keep people from functioning optimally at their jobs. In the right circumstances, these factors can however have a positive influence. With environment interventions, we tackle the physical work environment.",
+    "secondTitle": "The greenery intervention:",
+    "secondText":
+      "Plants reduce the physiological effects of stress and improve the air quality. Perfect, because clean air has a positive impact on energy levels, concentration, and productivity. By installing living green walls in the areas with the most air-pollution, we improve the wellness of the office space.",
+    "thirdTitle": "The light intervention:",
+    "thirdText":
+      "Daylight effects your biorhythm and is therefore an important factor in how well employees function. In office spaces, however, there is rarely a sufficient amount of daylight available. In these spaces, using artificial light plays an important role. Using our data, we can offer you custom made light interventions."
+  },
+  "interventionTwo": {
+    "firstTitle": "Reduce stress for mental and physical well-being",
+    "firstText":
+      "Mild stress can have a stimulating effect. Long-term and intense stress, however, results in mental and physical complains. Stress is the number 1 occupational disease, with 14% of employees suffering from work-related burnout complaints every year. Our body and mind interventions teach employees how to deal with stress and the daily challenges of the job, which results in happier employees and less absenteeism.",
+    "secondTitle": "The sport interventions",
+    "secondText":
+      "People who exercise frequently are more relaxed, happier, more confident, and sleep better. Healthy Workers works together with personal trainers to make working out at the job a possibility and stimulate employees to get enough exercise.",
+    "thirdTitle": "Stress management intervention",
+    "thirdText":
+      "Breathing exercises, mindfulness, meditation, and yoga are respected and recognised tools to help people deal with and manage stress. The stress management intervention teaches employees to improve their personal well-being themselves."
+  },
+  "interventionThree": {
+    "firstTitle": "Healthy food for sharp minds",
+    "firstText":
+      "Countless studies have proven that healthy people work more efficiently, make better decisions, and do not become tired or stressed as easily. Nutrition plays an important role. With our nutritional interventions, we increase the number of healthy food options available, and stimulate employees to eat healthier. People who eat healthy often feel healthier in mind and body, which results in an improved well-being within the entire company.",
+    "secondTitle": "Catering",
+    "secondText":
+      "We start by offering healthy options in the company canteens. Together with the current or a new caterer, we can improve the quality of the meals offered at work.",
+    "thirdTitle": "Nutrition advice",
+    "thirdText":
+      "Additionally, nutritionists can give individual nutrition consults to employees. This advice will raise awareness and help people make better food choices."
+  },
+
+  "_ABOUT": "TRANSLATION FOR ABOUT PAGE",
+
+  "aboutBanner": {
+    "pageTitle": "About",
+    "heading": "Every successful company starts with happy employees"
+  },
+  "companyText": {
+    "intro":
+      "At Healthy Workers our approach to the working environment is unique: we look for a balance between work and life. We are committed to developing the workplace of the future. We create the best possible working environment for happy employees and successful organizations.",
+    "first":
+      "<span>Well-being and work spaces</span>Employees spend a lot of time in the workplace and the working environment has a major influence on their well-being. Improving the liveability of work spaces can have a hugely positive impact on employees and businesses. High levels of employee well-being can result in improved engagement, higher productivity, less sick leave and the acquisition and retention of talented staff. So, every successful company starts with happy employees.",
+    "second":
+      "<span>Targeted investments with measurable results</span>Fortunately, employers are investing more and more in the health and well-being of their employees. Although this is a step in the right direction, Return On Investment is often unclear and results are not measured. It is impossible to implement targeted interventions and to understand their impact without data. Healthy Workers solves this problem: we make investments in companies measurable.",
+    "third":
+      "<span>Measuring, analysing and improving</span>Using scientifically proven techniques we compile important information. We constantly monitor the working environment and start a dialogue with employees. In order to obtain a comprehensive picture we immerse ourselves in both the physical and mental work stressors that can affect health, well-being and productivity. Based on these findings we present companies with insights and propose targeted interventions that are designed with the needs of employees in the workplace in mind. This way, together with companies, we create the best possible working environment and work to advance employee happiness and productivity."
+  },
+  "team": {
+    "firstName": "Boy Lokhoff",
+    "firstPosition": "Co-founder",
+    "firstBio":
+      "Companies expect their employees to be top performers, and thankfully there has been an increase in companies investing in their employees. The biggest problem is that companies don't involve their people in this process, which means they do not gain any insight in whether or not these investments are effective. Healthy Workers changes that.",
+
+    "secondName": "Guus Meulendijks",
+    "secondPosition": "Co-founder",
+    "secondBio":
+      "People are the absolute driving force behind a company, they are the ones who make a difference. With Healthy Workers, we want to strengthen the relationship between employers and employees. Together, we improve work environments, resulting in happier people and more productive companies.",
+
+    "thirdName": "Bas van Veggel",
+    "thirdPosition": "Co-founder",
+    "thirdBio":
+      "People want to feel at home when they're at work. At Healthy Workers, we want to make that possible. Because 'happiness at work', health, and productivity go hand-in-hand. We take it a step further; using our hard and soft data, we improve offices, organisations, and the well-being of employees.",
+
+    "fourthName": "Niels de Keizer",
+    "fourthPosition": "Co-founder/CTO",
+    "fourthBio":
+      "I am a fan of the Japanese word Kaizen, which means ‘continuous improving’. Finding perfection in continuous improvement, rather than strive for perfection as the end goal. At Healthy Workers we uphold this philosophy; working together with companies, to continuously improve employee well-being. ",
+
+    "fifthName": "Timothy  Tjen A Looi",
+    "fifthPosition": "Full Stack Developer",
+    "fifthBio":
+      "A healthy lifestyle enables me to achieve my goals. At Healthy Workers I am experimenting with the newest developments on wellbeing, so I can enable others to achieve their goals as well.",
+
+    "sixthName": "Mémé Veels",
+    "sixthPosition": "Product Developer",
+    "sixthBio":
+      "In a fast and fleeting world, we tend to forget to pay attention to what truly make us happy and grow our resilience. I believe in the mission of Healthy workers as well-being and happiness at work is at their core.",
+
+    "seventhName": "Maarten Ottenhoff",
+    "seventhPosition": "Data/Artificial Intelligence",
+    "seventhBio":
+      "As an athlete, I know how important optimal performance is. One of the most important conditions for achieving optimal performance is feeling great. With Healthy Workers, we try to bring these concepts to the business world, so employees can bring out the best in themselves.",
+
+    "eigthName": "IJk van Hattum",
+    "eigthPosition": "Content Creator",
+    "eighthBio":
+      "'Live to work' or 'work to live', if you ask me, the ideal situation is somewhere in between. Healthy Workers helps create a balance between working and living. I am glad to devote myself to this good cause.",
+
+    "ninthName": "Sean van Hangel",
+    "ninthPosition": "Project Manager/Ux Designer",
+    "ninthBio":
+      "We spend 70% of our lives at work, so a good and healthy work environment is an important part of being happy. With Healthy Workers, I can enjoy just that and devote myself to creating it in other places, which is a great motivator to work for them!",
+
+    "tenthName": "Jasper Bunschoten",
+    "tenthPosition": "Product Developer",
+    "tenthBio":
+      "Helping people gives me an amazing feeling. That’s why I’m at Healthy workers. I like to enable companies, to help their employees to a higher level of wellbeing. Helping people, help other people.",
+
+    "eleventhName": "Daan Rongen",
+    "eleventhPosition": "Product Developer",
+    "eleventhBio":
+      "Designing a work environment where the well-being of the employee plays a central role. That doesn't just increase our happiness, it's essential. Working towards creating a dynamic work environment is something that I'm very passionate about."
+  },
+  "callToAction": {
+    "text": "Come over, have a chat with us. <span>Healthy Workers</span> ",
+    "buttonText": "Get in touch"
+  },
+
+  "_vacatures": "TRANSLATION FOR VACATURES PAGE",
+
+  "vacatureBanner": {
+    "pageTitle": "Vacancies",
+    "heading": "Will you create the workplace of the future?"
+  },
+
+  "vacancy": {
+    "header": "Operations Manager at Healthy Workers",
+    "empty":
+      "At the moment we're not looking for anyone, but we're always open to receive unsolicited applications."
+  },
+
+  "missionText": {
+    "intro":
+      "We are Healthy Workers, a fast-growing company dedicated to promoting employee well-being: We create the workplace of the future.",
+    "first":
+      "<span><b>Our mission</b></span><br/>People spend the majority of their waking hours at work. We find it alarming that 70% percent of all employed people are not happy at work. This needs to change! Therefore we put the employee centre stage at Healthy Workers. We heighten engagement, improve well-being, and prevent burnouts.",
+    "first2": "",
+    "second":
+      "<span><b>Our approach</b></span><br/>With sensors and scientifically validated questionnaires we measure well-being and map indoor-climate for companies. The insights gained with our measurements are displayed in a dashboard for HR managers, and in an app for employees. Based on these insights, we offer companies targeted interventions which are implemented in the right areas of the building. For instance, we install air-purifying green walls in the areas with the most air-pollution. Thus, we use plants to improve air quality which can reduce stress levels among employees.",
+    "third":
+      "<span><b>Where are we now?</b></span><br/> Healthy Workers may start in the Netherlands, but our plans reach further than the borders. Our ambition is to achieve international expansion within the next three years. At the moment we already have customers such as <a href=\"http://www.ibm.com/\">IBM</a>, <a href=\"http://www.pwc.nl\">PWC</a> and <a href=\"http://www.uwv.nl\">UWV</a>. Successful companies start with happy workers!",
+    "fourth":
+      "<span><b>Who are we looking for?</b></span><br/>We are young, entrepreneurial and we are growing fast. As a rapidly growing company, we are looking for an experienced operations manager who can help us in the process of scaling up."
+  },
+
+  "tasks": {
+    "header": "<b>What are the challenges you may encounter?</b>",
+    "cond1": "Onboarding a new technology at large and complex organizations.",
+    "cond2":
+      "Aligning the different departments of our customers, such as: legal, HR and facilities.",
+    "cond3": "Aligning our various intervention suppliers.",
+    "cond4":
+      "Simplifying complex working processesto make sure implementation runs more smoothly and quickly each time.",
+    "cond5":
+      "Continuously gathering feedback and transforming this into improvements in our product.",
+    "cond6": "Switching between strategic planning and tactic execution.",
+    "cond7":
+      "The operations team will expand in the near future, how would you find the right people and how would you handle the onboarding?",
+    "sum":
+      "In short: Making sure that every step that Healthy Workers makes is of high quality."
+  },
+
+  "skills": {
+    "header": "<b>Do you bring these qualities:</b>",
+    "s1": "You are an experienced organizer, who needs little explanation.",
+    "s2": "You are direct, sincere and responsible.",
+    "s3":
+      "You like presenting and keeping contact with both manager and every employee.",
+    "s4":
+      "You have an overview and control over all of the details in finance/operations.",
+    "s5":
+      "You like working in an environment in which everything moves at a rapid pace.",
+    "s6": "You maintain control by constantly improving yourself.",
+    "s7": "Everything around you moves smoothly and systematic."
+  },
+
+  "perks": {
+    "header": "<b>What do we bring to the table? </b>",
+    "p1":
+      "An enthusiastic team. Every member’s foremost priorities are: results, ambition and taking pleasure in work.",
+    "p2":
+      "A healthy workplace in the inspiring professional environment of B. Amsterdam.",
+    "p3": "A competitive salary and the possibility of stock options.",
+    "p4":
+      "Plenty of responsibility and autonomy in an informal working environment.",
+    "p5": "Sport facilities at work, together with the team.",
+    "p6": "A fun quarterly activity with the team.",
+    "p7": "And, of course: coffee, tea, fresh fruit and a great lunch."
+  },
+
+  "reachUs": {
+    "text1":
+      "<span>Do you want to take on the challenge with us?</span> Then we would love to meet you! We are curious about your insights on the following questions that we are currently dealing with:<br/><br/>",
+    "text2":
+      "Please send an email to <a href=\"mailto:career@healthyworkers.nl\"> career@healthyworkers.nl </a> or call directly with Boy Lokhoff: <a class=\"visited-link\" href=\"tel:+31622942998\">0622942998</a>.",
+    "text3":
+      "If you want to know more about Healthy Workers, you can also listen to <a class=\"visited-link\" target=\"_blank\" href=\"https://www.bnr.nl/player/archive/20170912151910420\"><i>this short interview</i></a> we did on BNR News Radio."
+  },
+
+  "insights": {
+    "i1":
+      "In your opinion, which B2B company is best at customer experience. And what can Healthy Workers learn from them?",
+    "i2":
+      "What was your biggest failure in an operation project? And how did you solve the problem?",
+    "i3":
+      "In your opinion, what is the biggest challenge Healthy Workers is facing? What would you start with?"
+  },
+
+  "_contact": "TRANSLATION FOR CONTACT PAGE",
+  "contactBanner": {
+    "pageTitle": "Contact",
+    "heading": "We will keep you updated",
+    "under":
+      "Do you strive for satisfied, productive employees that excel in an optimal work environment? Please contact us for more information."
+  },
+  "form": {
+    "name": "What is your name?",
+    "email": "E-mail address",
+    "subject": "Subject",
+    "message": "Message",
+    "buttonText": "SENT"
+  },
+  "findUs": {
+    "title": "Where to find us",
+    "under":
+      "Our office is located in the B.1, B.Amsterdam building. Come by if you want to meet us.",
+    "locationTitle": "Location",
+    "location": "B1, B.Amsterdam",
+    "street": "Johan Huizingalaan 763a",
+    "postal": "1066VH, Amsterdam",
+    "emailTitle": "E-mail",
+    "email": "info@healthyworkers.nl",
+    "phoneTitle": "Phone number",
+    "phone": "(06) 53 44 36 22"
+  },
+
+  "_subscribed": "TRANSLATION FOR SUBSCRIBED PAGE (MAILCHIMP)",
+
+  "subscription": {
+    "statusupdate": "Adding your email address...",
+    "alreadyexists": "Email address already exists!",
+    "validemail": "Enter a valid email address!",
+    "header": "Thanks for subscribing",
+    "title": "You will now receive our monthly newsletter!",
+    "btn1": "Continue to our website",
+    "btn2": "Add us to your address book",
+    "text": "Changed your mind?",
+    "signup": "Unsubscribe"
+  },
+
+  "unsubscribe": {
+    "header": "You have unsubscribed",
+    "title": "We hope to see you again some time!",
+    "btn": "Subscribe again"
+  },
+
+  "_errorpages": "TRANSLATION FOR ERROR PAGES",
+  "fourzerozero": {
+    "title": "400 BAD REQUEST",
+    "subtitle": "This webpage cannot be found",
+    "paragraph": "There might be a typing error in the URL.",
+    "btn": "GO BACK TO THE WEBSITE"
+  },
+  "fourzerothree": {
+    "title": "403 FORBIDDEN",
+    "subtitle": "We appreciate that you're trying to explore unknown territory",
+    "paragraph":
+      "But unfortunately you don't have access to this part of the web.",
+    "btn": "GO BACK TO THE WEBSITE"
+  },
+  "fourzerofour": {
+    "title": "404 PAGE NOT FOUND",
+    "subtitle": "We are sorry, but something went wrong",
+    "paragraph": "The requested URL was not found on the server.",
+    "btn": "GO BACK TO THE WEBSITE"
+  },
+  "fivezerozero": {
+    "title": "500 INTERNAL SERVER ERROR",
+    "subtitle": "The web is returning an internal error",
+    "paragraph": "Nothing you can do at the moment. Please try again later.",
+    "btn": "GO BACK TO THE WEBSITE"
+  }
+}
